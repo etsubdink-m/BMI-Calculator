@@ -1,0 +1,52 @@
+body
+{
+    background: linear-gradient(45deg,rgb(255, 0, 140), rgb(76, 0, 255));
+}
+#numm
+{
+    border-left:0px;
+    border-right:0px;
+    border-top:0px;
+    margin-left:32%;
+}
+
+#num
+{
+    border-left:0px;
+    border-right:0px;
+    border-top:0px;
+    margin-left:32%;
+}
+.BMI
+{
+    background-color: white;
+    margin-left: 28%;
+    margin-top: 10%;
+    margin-right: 28%;
+    border-radius: 0.6em 0.6em 0.6em 0.6em;
+    height:25em;
+}
+h1
+{
+    padding-top: 1.5em;
+    text-align: center;   
+}
+p{
+    margin-left:32%;
+    margin-bottom: 5%;
+}
+#btn
+{
+    margin-left: 38%;
+    margin-top: 3%;
+    border-radius: 1em;
+    font-size: 1em;
+    height:2em;
+    width:7.2em;
+    border-style:hidden;
+    background: linear-gradient(45deg,rgb(255, 0, 140), rgb(76, 0, 255));
+}
+span
+{
+    margin-left: 35%;
+}
